@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El-kraft</title>
+    <link>https://el-kraft.github.io/posts/</link>
+    <description>Recent content on El-kraft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2017 01:19:10 +0200</lastBuildDate>
+    
+	<atom:link href="https://el-kraft.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vattenfall</title>
+      <link>https://el-kraft.github.io/posts/post/vattenfall/</link>
+      <pubDate>Sun, 16 Jul 2017 01:19:10 +0200</pubDate>
+      
+      <guid>https://el-kraft.github.io/posts/post/vattenfall/</guid>
+      <description>Vattenfall AB.</description>
+    </item>
+    
+    <item>
+      <title>Vind Energi</title>
+      <link>https://el-kraft.github.io/posts/post/vind-energi/</link>
+      <pubDate>Sun, 16 Jul 2017 01:05:38 +0200</pubDate>
+      
+      <guid>https://el-kraft.github.io/posts/post/vind-energi/</guid>
+      <description>Är vind energi miljövänlig?
+Är vind energi mer lönsam än sol energi?</description>
+    </item>
+    
+    <item>
+      <title>Sol Energi</title>
+      <link>https://el-kraft.github.io/posts/post/sol-energi/</link>
+      <pubDate>Sun, 16 Jul 2017 01:05:23 +0200</pubDate>
+      
+      <guid>https://el-kraft.github.io/posts/post/sol-energi/</guid>
+      <description>Är sol energi miljövänlig?
+Är sol energi mer lönsam än vind energi?</description>
+    </item>
+    
+  </channel>
+</rss>
